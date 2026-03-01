@@ -1,5 +1,5 @@
-#- name: GigaHelper
+#- name: Savefile Manager
 #- author: isaka2025 and Torrbullen
 #- href: 
-#- version: 1.0
+#- version: 1.1
 #- description: Tool for having savefiles locally and running them from pc.

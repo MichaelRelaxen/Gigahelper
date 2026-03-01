@@ -65,5 +65,6 @@ weapon_moby_ptr = 0xda39f0;
 
 death_count = 0xED7F14;
 
-
-
+mgr = 0xcb150c;
+NPTrophyShutdown = 0x0984e40;
+NPTrophyRegister = 0x984fa0;
